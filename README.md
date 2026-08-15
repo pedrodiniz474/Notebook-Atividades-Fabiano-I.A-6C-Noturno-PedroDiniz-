@@ -16,7 +16,7 @@ A cada nova entrega de atividade, uma **release** é criada neste repositório c
 
 | Arquivo | Descrição |
 |---|---|
-| `Exercícios_Python_[PedroDiniz][6C][Noturno]_ipynb_.ipynb` | Lista de 50 exercícios de Python básico (variáveis, `input`/`print`, `if/elif/else`, `for`, `while`, listas, dicionários e funções simples). |
+| `Exercícios_Python_[PedroDiniz][6C][Noturno]_ipynb_.ipynb` | Lista de 50 exercícios de Python. |
 
 > Este quadro será atualizado conforme novas atividades forem entregues durante a disciplina.
 
