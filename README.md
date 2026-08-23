@@ -17,6 +17,7 @@ A cada nova entrega de atividade, uma **release** é criada neste repositório c
 | Arquivo | Descrição |
 |---|---|
 | `Exercícios_Python_[PedroDiniz][6C][Noturno]_ipynb_.ipynb` | Lista de 50 exercícios de Python. |
+| `Exercícios_DataSciente_[PedroDiniz][6C][Noturno]_ipynb_.ipynb` | Lista de 80 exercícios de Python usando bibliotecas. |
 
 > Este quadro será atualizado conforme novas atividades forem entregues durante a disciplina.
 
