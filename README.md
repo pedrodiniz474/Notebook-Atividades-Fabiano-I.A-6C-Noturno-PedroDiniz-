@@ -19,6 +19,8 @@ A cada nova entrega de atividade, uma **release** é criada neste repositório c
 | `Exercícios_Python_[PedroDiniz][6C][Noturno]_ipynb_.ipynb` | Lista de 50 exercícios de Python. |
 | `Exercícios_DataSciente_[PedroDiniz][6C][Noturno]_ipynb_.ipynb` | Lista de 80 exercícios de Python usando bibliotecas. |
 | `Salvando_Eleicao_1936_DataScience_[PedroDiniz]_[6C]_Noturno.ipynb` | Atividade de análise de dados. |
+| `Atividade_Machine_Learning_Brasileirao_[PedroDiniz]_[6C].ipynb` | Atividade para pegar um dataset no kaggle e praticar machine learning. |
+
 
 > Este quadro será atualizado conforme novas atividades forem entregues durante a disciplina.
 
